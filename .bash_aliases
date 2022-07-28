@@ -1,0 +1,11 @@
+alias bashrc="nvim ~/.bashrc && source ~/.zshrc"
+alias vimrc="nvim ~/.config/nvim/init.vim"
+alias i3config="nvim ~/.i3/config"
+alias shortcuts="nvim ~/.bash_aliases && source ~/.bash_aliases"
+alias polybarconfig="nvim ~/.config/polybar/config.ini"
+alias roficonfig="nvim ~/.config/rofi/config"
+alias v="nvim"
+alias home="cd $HOME"
+alias kittyconf="nvim ~/.config/kitty/kitty.conf"
+
+alias cat="bat"
